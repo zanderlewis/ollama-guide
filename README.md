@@ -36,5 +36,7 @@ Some models you can run via Ollama:
 | Gemma              | 7B         | 4.8GB | `ollama run gemma:7b`          |
 | Solar              | 10.7B      | 6.1GB | `ollama run solar`             |
 
+> Note: According to Ollama, you should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
+
 ## Getting Started
 ***Todo***
