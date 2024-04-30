@@ -41,4 +41,4 @@ There are more models on their website. You can find the list [here.](https://ol
 > Note: According to Ollama, you should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
 
 ## Getting Started
-Please visit [here](getting-started.md) to get started.
+Please visit [here](docs/getting-started.md) to get started.
