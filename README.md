@@ -1,5 +1,5 @@
 # Ollama-Python Guide
-A guide to Ollama-Python.
+A begginer-friendly guide to Ollama-Python.
 
 ## What is Ollama?
 Ollama is an application for running LLMs and Multi-Modals easily on a device. Ollama uses a REST API on a localhost to interact with different AI.
