@@ -1,5 +1,5 @@
 # Ollama-Python Guide
-A begginer-friendly guide to Ollama-Python.
+A beginner-friendly guide to Ollama-Python.
 
 Please note that this repo does not contain a guide to all the models supported by Ollama.
 
